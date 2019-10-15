@@ -8,6 +8,7 @@ https://arxiv.org/abs/1905.09690
 ***
 
 
-Please see the [code.ipynb](https://github.com/omitakahiro/NeuralNetworkPointProcess/blob/master/code.ipynb) for the source code and the demonstration.
+Please see the [keras_implementation.ipynb](https://github.com/omitakahiro/NeuralNetworkPointProcess/blob/master/keras_implementation.ipynb) for how to implement the proposed model with Keras. More detailed implementation is found in [code.ipynb](https://github.com/omitakahiro/NeuralNetworkPointProcess/blob/master/code.ipynb)
 
-The jupyter notebook can be also viewed at https://nbviewer.jupyter.org/github/omitakahiro/NeuralNetworkPointProcess/blob/master/code.ipynb
+The jupyter notebook can be also viewed at https://nbviewer.jupyter.org/github/omitakahiro/NeuralNetworkPointProcess/blob/master/keras_implementation.ipynb
+https://nbviewer.jupyter.org/github/omitakahiro/NeuralNetworkPointProcess/blob/master/code.ipynb
