@@ -2,7 +2,9 @@
 
 This is a source code for
 
-T. Omi, N. Ueda, and K. Aihara, "Fully neural network based model for general temporal point processes", arXiv:1905.09690.
+T. Omi, N. Ueda, and K. Aihara, "Fully neural network based model for general temporal point processes", Advances in Neural Information Processing Systems 32 (Neurips 2019), 2120 (2019).
+
+https://papers.nips.cc/paper/8485-fully-neural-network-based-model-for-general-temporal-point-processes
 https://arxiv.org/abs/1905.09690
 
 ***
