@@ -1,0 +1,7 @@
+wheel
+numpy==1.19
+tensorflow==2.1
+scipy==1.4.1
+matplotlib
+pandas
+jupyter
