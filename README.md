@@ -14,7 +14,7 @@ Paper:
 
 ***
 
-**NOTE:** Scripts in this repository doesn't work for the latest version of TensorFlow. Please see the branch [`python_setup`](https://github.com/omitakahiro/NeuralNetworkPointProcess/tree/python_setup) for how to setup the environment, which was contributed by @mattclifford1
+**NOTE:** Scripts in this repository don't work for the latest version of TensorFlow. Please see the branch [`python_setup`](https://github.com/omitakahiro/NeuralNetworkPointProcess/tree/python_setup) for how to setup the environment, which was contributed by @mattclifford1
 
 
 Please see the [keras_implementation.ipynb](https://github.com/omitakahiro/NeuralNetworkPointProcess/blob/master/keras_implementation.ipynb) for how to implement the proposed model with Keras. More details can be found in [code.ipynb](https://github.com/omitakahiro/NeuralNetworkPointProcess/blob/master/code.ipynb)
