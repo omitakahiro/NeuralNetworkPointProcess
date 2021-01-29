@@ -14,6 +14,18 @@ Paper:
 
 ***
 
+# Python Setup
+Tested in Ubuntu 20.04. Conda required.
+To set up the virtual environment and install required dependencies run:
+```
+$ ./setup.sh
+```
+To start up the jupyter notebook run:
+```
+$ ./start-conda.sh
+```
+
+# Notebook details
 
 Please see the [keras_implementation.ipynb](https://github.com/omitakahiro/NeuralNetworkPointProcess/blob/master/keras_implementation.ipynb) for how to implement the proposed model with Keras. More details can be found in [code.ipynb](https://github.com/omitakahiro/NeuralNetworkPointProcess/blob/master/code.ipynb)
 
